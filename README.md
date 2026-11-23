@@ -1,6 +1,6 @@
 # Foliúme
 
-<p align="center"><img src="docs/foliume.png" alt="Foliúme — livro aberto em verde-petróleo com um detalhe âmbar" width="420"></p>
+<p align="center"><img src="foliume.png" alt="Foliúme — livro aberto em verde-petróleo com um detalhe âmbar" width="420"></p>
 
 **Encontre PDFs públicos, confira a origem dos livros e organize sua biblioteca local.** O Foliúme reúne três fluxos em um aplicativo Python com interface gráfica em português e comandos para Windows e Linux.
 
